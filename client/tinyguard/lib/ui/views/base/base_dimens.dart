@@ -1,0 +1,32 @@
+class BaseDimens {
+  double zero = 0;
+  double one = 1;
+  double two = 2;
+  double three = 3;
+  double four = 4;
+  double five = 5;
+  double six = 6;
+  double seven = 7;
+  double eight = 8;
+  double nine = 9;
+  double ten = 10;
+  double eleven = 11;
+  double twelve = 12;
+  double thirdTeen = 13;
+  double forTeen = 14;
+  double fifTeen = 15;
+  double sixTeen = 16;
+  double sevenTeen = 17;
+  double eightTeen = 18;
+  double nineTeen = 19;
+  double twenty = 20;
+  double twentyOne = 21;
+  double twentyTwo = 22;
+  double thirtyfive = 35;
+  double fourtyThree = 43;
+  double fiftySix = 56;
+  double eightty = 80;
+  double oneHundredTwelve = 112;
+  double twoHundred = 200;
+  double twoHundredFiftySeven = 257;
+}

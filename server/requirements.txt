@@ -1,0 +1,11 @@
+flask
+Flask-SQLAlchemy
+flask-socketio
+Pillow
+albumentations
+opencv-python
+numpy
+bcrypt
+pyjwt
+matplotlib
+tqdm
